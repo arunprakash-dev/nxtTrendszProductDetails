@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.similar-container1 {
+  border-radius: 10px;
+}
+.similar-product {
+  height: 200px;
+  width: 200px;
+}
+.list-item {
+  margin-right: 10px;
+}
